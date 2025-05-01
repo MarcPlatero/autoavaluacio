@@ -18,4 +18,4 @@ adminuser - Password: 1234 (ADMIN ROLE)
 ffernandez - Password: 1234 (TEACHER ROLE)
 mplateror - Password: 1234 (STUDENT ROLE)
 
-Thanks for reading this and I hope you find the project interesting!
+Thanks for reading this and I hope you find the program interesting!
