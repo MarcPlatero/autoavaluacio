@@ -12,11 +12,13 @@ The application is designed for use in an educational setting, where users can l
 
 The concept of self-assessment (autoevaluació) — as implemented in this application — is based on educational methodologies that promote reflection, autonomy, and personal development. It encourages students to identify their own progress and learning gaps, making them more engaged and responsible for their academic performance.
 
+This program was developed 100% by me, from start to finish. It showcases both backend and frontend integration, along with user authentication and role-based access control.
+
 The project was built using: 
 
-- Backend: Laravel, Eloquent, MySQL, APIs and Authentication & authorization logic.
+- Backend: PHP, Laravel (PHP framework), Eloquent, MySQL, APIs and Authentication & authorization logic.
 
-- Frontend: Vue.js, Blade, Bootstrap and Axios.
+- Frontend: HTML, CSS, JavaScript, Vue.js (JavaScript framework), Blade and Bootstrap.
 
 The system functions well overall, although not all possible features have been implemented, as the goal was to focus on the essential functionalities required by the assignment.
 
