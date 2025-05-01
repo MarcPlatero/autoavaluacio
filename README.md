@@ -1,4 +1,4 @@
-# autoavaluacio
+# Autoavaluacio
 
 This is a project I developed about a year ago, and I’d like to briefly explain what it’s about.
 
