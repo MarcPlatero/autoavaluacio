@@ -1,4 +1,4 @@
-# Autoavaluacio
+# Autoavaluació
 
 This is a project I developed about a year ago, and I’d like to briefly explain what it’s about. Please note that the program's interface is in Catalan rather than English.
 
