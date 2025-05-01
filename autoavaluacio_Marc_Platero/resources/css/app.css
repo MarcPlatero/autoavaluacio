@@ -1,0 +1,10 @@
+/* Logo */
+.navbar-brand img {
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+/* Nom */
+.navbar-text {
+    margin-right: 20px;
+}
